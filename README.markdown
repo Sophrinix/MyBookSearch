@@ -1,0 +1,14 @@
+Working Example of My Book Search
+-----------------------------------
+
+This repository is a working example of this tutorial:
+http://projects.appcelerator.com/alloy/docs/Alloy-bootstrap/index.html
+
+type:
+   alloy run 
+
+to run it or just build it from Titanium Studio.
+
+This repo is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license unless otherwise stated.
+
